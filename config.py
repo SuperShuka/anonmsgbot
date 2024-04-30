@@ -1,8 +1,3 @@
-from dotenv import load_dotenv, find_dotenv
-import os
-
-load_dotenv(find_dotenv())
-
 BOT_TOKEN = ""
 BOT_USERNAME = ""  # https://t.me/BOTUSERNAME Нужно для генерации реферальной ссылки
 otstuk_chat = -732422972
